@@ -1,5 +1,23 @@
 {
-  "ios":     { "min": "2.2.0", "latest": "2.5.1", "url": "https://apps.apple.com/tr/app/..." },
-  "android": { "min": "2.2.0", "latest": "2.5.1", "url": "https://play.google.com/store/apps/details?id=..." },
+  "ios": {
+    "min": "2.2.0",
+    "latest": "2.5.1",
+    "url": "https://apps.apple.com/tr/app/...",
+    "changelog": [
+      "Bildirimi açınca çökme düzeltildi",
+      "İzin talebi formu hızlandırıldı",
+      "Güvenlik güncellemeleri"
+    ]
+  },
+  "android": {
+    "min": "2.2.0",
+    "latest": "2.5.1",
+    "url": "https://play.google.com/store/apps/details?id=...",
+    "changelog": [
+      "Push token kaydı stabil hale getirildi",
+      "Çalışma planı ekranı optimizasyonu",
+      "Kritik güvenlik düzeltmeleri"
+    ]
+  },
   "message": "Önemli güvenlik düzeltmeleri içerir."
 }
