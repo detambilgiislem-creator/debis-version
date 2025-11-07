@@ -1,7 +1,7 @@
 {
   "ios": {
     "min": "2.2.0",
-    "latest": "2.3.0",
+    "latest": "2.2.0",
     "url": "https://apps.apple.com/tr/app/debis-app/id6476403625",
     "changelog": [
       "İzinler Tabı",
@@ -11,8 +11,8 @@
   },
   "android": {
     "min": "2.2.0",
-    "latest": "2.3.0",
-    "url": "https://play.google.com/store/search?q=DEBIS&c=apps",
+    "latest": "2.2.0",
+    "url": "https://play.google.com/store/apps/details?id=com.naimatalar.debisapp",
     "changelog": [
       "İzinler Tabı",
       "İş Emir Tabı",
