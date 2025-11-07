@@ -1,23 +1,23 @@
 {
   "ios": {
     "min": "2.2.0",
-    "latest": "2.5.1",
-    "url": "https://apps.apple.com/tr/app/...",
+    "latest": "2.3.0",
+    "url": "https://apps.apple.com/tr/app/debis-app/id6476403625debis-app",
     "changelog": [
-      "Bildirimi açınca çökme düzeltildi",
-      "İzin talebi formu hızlandırıldı",
-      "Güvenlik güncellemeleri"
+      "İzinler Tabı",
+      "İş Emir Tabı",
+      "Bugfixler ve performans iyileştirmeleri"
     ]
   },
   "android": {
     "min": "2.2.0",
-    "latest": "2.5.1",
-    "url": "https://play.google.com/store/apps/details?id=...",
+    "latest": "2.3.0",
+    "url": "https://play.google.com/store/search?q=DEBIS&c=apps",
     "changelog": [
-      "Push token kaydı stabil hale getirildi",
-      "Çalışma planı ekranı optimizasyonu",
-      "Kritik güvenlik düzeltmeleri"
+      "İzinler Tabı",
+      "İş Emir Tabı",
+      "Bugfixler ve performans iyileştirmeleri"
     ]
   },
-  "message": "Önemli güvenlik düzeltmeleri içerir."
+  "message": "Önemli yenilikler mevcut! Lütfen uygulamanızı güncelleyin."
 }
