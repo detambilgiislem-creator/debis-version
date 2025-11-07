@@ -1,0 +1,5 @@
+{
+  "ios":     { "min": "2.2.0", "latest": "2.5.1", "url": "https://apps.apple.com/tr/app/..." },
+  "android": { "min": "2.2.0", "latest": "2.5.1", "url": "https://play.google.com/store/apps/details?id=..." },
+  "message": "Önemli güvenlik düzeltmeleri içerir."
+}
