@@ -1,19 +1,19 @@
 {
   "ios": {
-    "min": "2.3.1",
-    "latest": "2.3.1",
+    "min": "2.8.0",
+    "latest": "2.8.0",
     "url": "https://apps.apple.com/tr/app/debis-app/id6476403625",
     "changelog": [
-      "İş Emirleri Güncellendi",
+      "Push Notificationlar Güncellendi",
       "Bugfixler ve performans iyileştirmeleri"
     ]
   },
   "android": {
-    "min": "2.8.0",
-    "latest": "2.8.0",
+    "min": "2.8.1",
+    "latest": "2.8.1",
     "url": "https://play.google.com/store/apps/details?id=com.naimatalar.debisapp",
     "changelog": [
-      "Bugfixler ve performans iyileştirmeleri Yapıldı",
+      "Tekliflerim Ekranları Eklendi",
       "Push Notificationlar Güncellendi"
     ]
   },
